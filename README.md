@@ -1,2 +1,2 @@
 # Mini-Putt Test
- Application de mini-pûtt
+ Application de mini-putt
